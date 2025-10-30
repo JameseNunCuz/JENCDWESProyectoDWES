@@ -26,7 +26,7 @@
         <button onclick="location.href = '../JENCDWESProyectoTema3'" class="active">
             <p>Tema 3: Caracteristicas del lenguaje PHP</p>
         </button>
-        <button>
+        <button onclick="location.href = '../JENCDWESProyectoTema4'" class="active">
             <p>Tema 4: Técnicas de acceso a datos en PHP</p>
         </button>
         <button>
