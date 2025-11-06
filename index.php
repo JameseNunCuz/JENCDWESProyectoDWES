@@ -20,7 +20,7 @@
         <button onclick="window.open('./doc/EjerciciosTema1.pdf')" class="active">
             <p>Tema 1: Desarollo web en entorno servido</p>
         </button>
-        <button onclick="location.href = '../JENCDAWProyectoDAW/README.html'" class="active">
+        <button onclick="window.open('https://github.com/JameseNunCuz/JENCDAWProyectoDAW/blob/developerJENC/README.md')" class="active">
             <p>Tema 2: Instalación, configuración y documentación del entorno de desarrollo y del entorno de explotación</p>
         </button>
         <button onclick="location.href = '../JENCDWESProyectoTema3'" class="active">
